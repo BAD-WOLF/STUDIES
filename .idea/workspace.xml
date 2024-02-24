@@ -20,9 +20,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/bin/php" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2cmVD26U3tUPvk68PCL4KioaZQG" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -40,7 +40,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "feature/1.3.0",
+    "git-widget-placeholder": "develop",
     "last_opened_file_path": "/home/matheu/project/STUDIES/POO/Abstraction",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -53,11 +53,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/POO/Inheritance/Person" />
+      <recent name="$PROJECT_DIR$/POO/Person" />
       <recent name="$PROJECT_DIR$/POO/Abstraction/Zool/Models" />
       <recent name="$PROJECT_DIR$/POO/Abstraction/Zool/" />
       <recent name="$PROJECT_DIR$/POO/Abstraction/Zool/abs" />
-      <recent name="$PROJECT_DIR$/POO/Abstraction/abs" />
-      <recent name="$PROJECT_DIR$/POO/Abstraction" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -75,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708716622602</updated>
-      <workItem from="1708716625504" duration="11170000" />
+      <workItem from="1708716625504" duration="12962000" />
     </task>
     <servers />
   </component>
