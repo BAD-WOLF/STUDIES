@@ -1,0 +1,14 @@
+{
+  "name": "bad-wolf/studies",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "matheu",
+      "email": "matheusviaira160@gmail.com"
+    }
+  ],
+  "require": {
+  }
+}
